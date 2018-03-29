@@ -1,0 +1,1 @@
+worker: Enkidu bot.js
